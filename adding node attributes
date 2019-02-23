@@ -1,0 +1,5 @@
+#if you intend to merge node attributes in gephi, be sure that 
+A. you load your edges list first
+B. the names of nodes are defined as Id
+C. you unclick the radio button for "new workspace"
+
